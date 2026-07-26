@@ -1,4 +1,4 @@
-Based on the transcripts and images provided, here is the full list of organizations, literature, and key figures referenced in the program. Please note that while the **names** of these resources appear in the sources, the specific **URLs** are provided from external knowledge to help you find them online.
+Here is the full list of organizations, literature, and key figures referenced in the program. Please note that while the **names** of these resources appear in the sources, the specific **URLs** are provided from external knowledge to help you find them online.
 
 ### **1. Primary Organizations and Fellowships**
 *   **Adult Children of Alcoholics & Dysfunctional Families (ACA):** This is the primary framework for the course. It focuses on the "14 traits of adult children" (The Laundry List).
